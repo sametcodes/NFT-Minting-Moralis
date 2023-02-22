@@ -1,0 +1,37 @@
+.nftForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.textBox {
+  width: 200px;
+  height: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+.home {
+  display: flex;
+  background-color: aquamarine;
+  width: 100%;
+  min-height: 100vh;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.nftList {
+  margin-top: 50px;
+  display: flex;
+
+}
+
+.nftCard {
+  border: 1px solid black;
+  height: 300px;
+  margin: 30px;
+  padding: 20px;
+  text-align: center;
+}
